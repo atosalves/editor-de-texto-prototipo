@@ -1,0 +1,155 @@
+{
+    "type": "doc",
+    "content": [
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Em 2017, foram publicados os resultados de uma pesquisa sobre a distância média preferida entre pessoas “estranhas”, “conhecidas” e “amigas”, dependendo do local onde vivem, conforme apresentado."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            }
+        },
+        {
+            "type": "image",
+            "attrs": {
+                "src": "https://qcon-assets-production.s3.amazonaws.com/images/provas/126090/Captura_de%20tela%202025-01-23%20230137.png",
+                "alt": null,
+                "title": null,
+                "width": null,
+                "height": null
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "subscript"
+                        }
+                    ],
+                    "text": "SOROKOWSKA, A. et al. Prefered Interpersonal Distances: a Global Comparison."
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "bold"
+                        },
+                        {
+                            "type": "subscript"
+                        }
+                    ],
+                    "text": " J Cross-Cultural Psychol"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "subscript"
+                        }
+                    ],
+                    "text": "., n. 48, 2017 (adaptado)."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Dentre os locais considerados no gráfico, os que apresentam as menores distâncias médias preferidas entre “estranhos”, “conhecidos” e “amigos” são, respectivamente:"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "a) China, Índia e China."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "b) Argentina, Argentina e Noruega."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "c) Noruega, Argentina e Argentina."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "d) Nigéria, Nigéria e México."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "e) China, Índia e Nigéria."
+                }
+            ]
+        }
+    ]
+}
