@@ -92,14 +92,96 @@
             }
         },
         {
-            "type": "paragraph",
+            "type": "orderedList",
             "attrs": {
-                "textAlign": null
+                "start": 1,
+                "type": null
             },
             "content": [
                 {
-                    "type": "text",
-                    "text": "a) China, Índia e China."
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "China, Índia e China."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Argentina, Argentina e Noruega."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Noruega, Argentina e Argentina."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Nigéria, Nigéria e México."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": null
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "China, Índia e Nigéria."
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -107,49 +189,7 @@
             "type": "paragraph",
             "attrs": {
                 "textAlign": null
-            },
-            "content": [
-                {
-                    "type": "text",
-                    "text": "b) Argentina, Argentina e Noruega."
-                }
-            ]
-        },
-        {
-            "type": "paragraph",
-            "attrs": {
-                "textAlign": null
-            },
-            "content": [
-                {
-                    "type": "text",
-                    "text": "c) Noruega, Argentina e Argentina."
-                }
-            ]
-        },
-        {
-            "type": "paragraph",
-            "attrs": {
-                "textAlign": null
-            },
-            "content": [
-                {
-                    "type": "text",
-                    "text": "d) Nigéria, Nigéria e México."
-                }
-            ]
-        },
-        {
-            "type": "paragraph",
-            "attrs": {
-                "textAlign": null
-            },
-            "content": [
-                {
-                    "type": "text",
-                    "text": "e) China, Índia e Nigéria."
-                }
-            ]
+            }
         }
     ]
 }
