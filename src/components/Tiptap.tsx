@@ -42,8 +42,8 @@ export function Tiptap() {
             <EditorContent editor={editor} className="border-2 rounded-md p-3 max-w-[700px] bg-white" />
 
             <Button onClick={visualizarJson}>Atualizar JSON</Button>
-            <div className="p-3 bg-gray-900 text-gray-100 rounded-md overflow-auto text-sm font-mono">
-                <pre>{json}</pre>
+            <div className="max-w-[700px] w-full p-3 bg-gray-900 text-gray-100 rounded-md overflow-auto text-sm font-mono">
+                <pre className="whitespce-pre">{json}</pre>
             </div>
         </>
     );
