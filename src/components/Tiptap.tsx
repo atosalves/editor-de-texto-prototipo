@@ -1,16 +1,21 @@
+import questao from "@/assets/questao-exemplo.json";
+
 import Image from "@tiptap/extension-image";
+import { OrderedList } from "@tiptap/extension-list";
 import Subscript from "@tiptap/extension-subscript";
 import TextAlign from "@tiptap/extension-text-align";
 import { EditorContent, useEditor } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
-import questao from "@/assets/questao-exemplo.json";
+
 import { useState } from "react";
+
 import { Menu } from "./Menu";
 import { Button } from "./ui/button";
 
 export function Tiptap() {
     const editor = useEditor({
         extensions: [
+            OrderedList,
             StarterKit,
             Image,
             Subscript,
